@@ -20,14 +20,14 @@ https://mrabet-saad.netlify.app/
 and deploy with Netlify.
 
 
-## Languages :
+## :bookmark_tabs:  Languages :
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="30px" src="https://widgetcore.com/wp-content/uploads/2022/01/nextjs.jpg" />
+<img align="left" alt="React" width="30px" height="30px" src="https://widgetcore.com/wp-content/uploads/2022/01/nextjs.jpg" />
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -43,7 +43,7 @@ and deploy with Netlify.
 ### :bookmark_tabs:  Tools & Platform as Services:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="80px" height="40px" src="./heroku.png" />
+<img align="left" alt="Visual Studio Code" width="90px" height="40px" src="./heroku.png" />
 <img align="left" alt="Firebase" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
 
 
