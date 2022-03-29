@@ -38,7 +38,9 @@ and deploy with Netlify.
 <br />
 <br />
 <br />
-## :bookmark_tabs:  Tools & Platform as Services:
+
+...
+### :bookmark_tabs:  Tools & Platform as Services:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="80px" height="40px" src="./heroku.png" />
@@ -54,22 +56,6 @@ and deploy with Netlify.
 <img align="left" alt="Node.js" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJjCAK6t65UY6KjSrXiBxJ35b0_CS9eAkZQ&usqp=CAU" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Teguh GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haritsdev&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Teguh GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritsdev" />
-
-</details>
 
 [instagram]: https://www.instagram.com/am.are.is3/
 [linkedin]: https://www.linkedin.com/in/aristeguh/
