@@ -52,10 +52,9 @@ and deploy with Netlify.
 
 ## :bookmark_tabs:  Database/Platform as services :
 
-<img align="left" alt="Node.js" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJjCAK6t65UY6KjSrXiBxJ35b0_CS9eAkZQ&usqp=CAU" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="SQL" width="50px" src="https://img2.pngdownload.id/20180610/sks/kisspng-mysql-database-server-microsoft-sql-server-5b1d8657d3e489.9771192415286615918679.jpg" />
-<img align="left" alt="SQL" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5B8GMClLqIJ2RObCTxzObLFKRYbg7fIKlCaZIOqnQhglC9o5DXT7Eg5YWNTnIidoHD4&usqp=CAU" />
+<img align="left" alt="Mongodb" width="60px" src="https://sekolahlinux.com/wp-content/uploads/2016/04/0B33Jt3ad_zj9YlR6RDhtdjFyVDQ.png" />
+<img align="left" alt="Mysql" width="60px" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" />
+<img align="left" alt="PostgreeSQL" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5B8GMClLqIJ2RObCTxzObLFKRYbg7fIKlCaZIOqnQhglC9o5DXT7Eg5YWNTnIidoHD4&usqp=CAU" />
 
 
 [instagram]: https://www.instagram.com/am.are.is3/
