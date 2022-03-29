@@ -54,6 +54,8 @@ and deploy with Netlify.
 
 <img align="left" alt="Node.js" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJjCAK6t65UY6KjSrXiBxJ35b0_CS9eAkZQ&usqp=CAU" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="50px" src="https://img2.pngdownload.id/20180610/sks/kisspng-mysql-database-server-microsoft-sql-server-5b1d8657d3e489.9771192415286615918679.jpg" />
+<img align="left" alt="SQL" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5B8GMClLqIJ2RObCTxzObLFKRYbg7fIKlCaZIOqnQhglC9o5DXT7Eg5YWNTnIidoHD4&usqp=CAU" />
 
 
 [instagram]: https://www.instagram.com/am.are.is3/
