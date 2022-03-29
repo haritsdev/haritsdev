@@ -54,7 +54,7 @@ and deploy with Netlify.
 
 <img align="left" alt="Mongodb" width="60px" src="https://sekolahlinux.com/wp-content/uploads/2016/04/0B33Jt3ad_zj9YlR6RDhtdjFyVDQ.png" />
 <img align="left" alt="Mysql" width="60px" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" />
-<img align="left" alt="PostgreeSQL" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5B8GMClLqIJ2RObCTxzObLFKRYbg7fIKlCaZIOqnQhglC9o5DXT7Eg5YWNTnIidoHD4&usqp=CAU" />
+<img align="left" alt="PostgreeSQL" width="70px" height="60"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5B8GMClLqIJ2RObCTxzObLFKRYbg7fIKlCaZIOqnQhglC9o5DXT7Eg5YWNTnIidoHD4&usqp=CAU" />
 
 
 [instagram]: https://www.instagram.com/am.are.is3/
